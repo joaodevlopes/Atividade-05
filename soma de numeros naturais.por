@@ -3,7 +3,7 @@ programa {
     inteiro n, i
     inteiro soma = 0 
 
-    escreva("SOMA DOS N PRIMEIROS NATURAIS (Iterativa)\n")
+    escreva("SOMA DOS N PRIMEIROS NATURAIS \n")
     escreva("Digite o valor de N: ")
     leia(n)
 
